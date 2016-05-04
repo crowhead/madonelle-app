@@ -3,8 +3,14 @@
   "version": "1.0.0",
   "description": "A geolocator sharing app that lets users spot, tag, and share street Madonnna shrines.",
   "main": "hello.compiled.js",
+
+  "devDependencies": {
+    "babel-cli": "6.5.1",
+    "babel-preset-es2015": "6.5.0",
+    "babel-preset-react": "6.5.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "babel hello.js -o hello.babelized.js"
   },
   "repository": {
     "type": "git",
