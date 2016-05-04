@@ -1,4 +1,4 @@
-<script type="text/babel">
+
       var Greeting = React.createClass({
         render: function() {
           return (
@@ -11,4 +11,3 @@
         <Greeting/>,
         document.getElementById('greeting-div')
       );
-</script>
