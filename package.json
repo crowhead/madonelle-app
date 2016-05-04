@@ -1,0 +1,24 @@
+{
+  "name": "madonelle-app",
+  "version": "1.0.0",
+  "description": "A geolocator sharing app that lets users spot, tag, and share street Madonnna shrines.",
+  "main": "hello.compiled.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/crowhead/madonelle-app.git"
+  },
+  "keywords": [
+    "Madonna",
+    "Virgin",
+    "Mary"
+  ],
+  "author": "Max Lewis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/crowhead/madonelle-app/issues"
+  },
+  "homepage": "https://github.com/crowhead/madonelle-app#readme"
+}
