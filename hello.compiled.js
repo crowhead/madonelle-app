@@ -1,1 +1,3 @@
-hello.compiled.js
+"use strict";
+
+hello.js;
