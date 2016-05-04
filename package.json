@@ -10,7 +10,7 @@
     "babel-preset-react": "6.5.0"
   },
   "scripts": {
-    "build": "babel hello.js -o hello.babelized.js"
+    "build": "babel hello.js -o hello.compiled.js"
   },
   "repository": {
     "type": "git",
